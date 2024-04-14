@@ -1,0 +1,17 @@
+.SearchForm input:focus {
+    box-shadow: none;
+    border-color: white;
+}
+
+.SearchForm {
+  margin-top: 10px;
+}
+
+button {
+  background-image: linear-gradient(to right, #3d3d3d 0%, #6d6d6d 70%);
+  border-radius: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 5px;
+  color: white;
+}

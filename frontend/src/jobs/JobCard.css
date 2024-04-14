@@ -1,0 +1,24 @@
+.card-body {
+    background-color: #393e46;
+    color: #f2f2f2;
+    margin: 20px;
+    border-radius: 5px;
+    position: flex;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
+
+.apply-btn {
+    background-image: linear-gradient(to right, #3d3d3d 0%, #6d6d6d 70%);
+    border-radius: 20px;
+    float: right;
+    margin-right: 10px;
+}
